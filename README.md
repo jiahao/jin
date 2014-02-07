@@ -1,4 +1,3 @@
-jin
-===
+# Julia Issue Notes
 
-Julia Issue Notes - technical working notes related to specific Julia issues
+Technical working notes related to specific Julia issues
